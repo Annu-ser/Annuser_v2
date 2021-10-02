@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEERKALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="manafsir" src="https://img.shields.io/badge/manaf-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/manaf-1"><img title="Author" src="https://img.shields.io/badge/Author-manaf-1/manusir?color=blue&style=for-the-badge&logo=whatsapp"></a>

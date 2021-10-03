@@ -16,7 +16,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     var i = Math.floor(1*Math.random())
 
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
+    var respoimage = await axios.git(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*My creator is manaf-1*
 *Creator number : wa.me/917560891210?text=Hi%20manaf%20-1.%20*
